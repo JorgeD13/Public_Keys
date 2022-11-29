@@ -1,0 +1,7 @@
+USERNAME,PUBLIC_KEY
+usuariodeprueba,"{""crv"":""P-256"",""ext"":true,""key_ops"":[],""kty"":""EC"",""x"":""dIu_fpd6oqjrLO38iNC-yONjpQwI-ZovxM6SUyw4hF4"",""y"":""mdfDX4WT1sYe3G7YzEPWMxFNi35r-F_vyV75a1jT2a8""}"
+usuariodeprueba2,"{""crv"":""P-256"",""ext"":true,""key_ops"":[],""kty"":""EC"",""x"":""iqsNSpOFVbD23RufqXcgwN-67n9cBhhRbHKZvUyJGys"",""y"":""8dLNoMs-aNoNGkw_3zVpSxRpacG776D1NoagjGy4CxQ""}"
+jorge,somekey
+jorge,somekey
+jorge,somekey
+jorge,somekey
